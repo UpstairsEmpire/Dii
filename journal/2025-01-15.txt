@@ -1,0 +1,15 @@
+I first experienced Legacy of the Dragonborn through the Lost Legacy Wabbajack mod list, and I immediately fell in love. Of course I'd heard of it (spend five minutes in any Skyrim modding community and you will), and all I knew was that it had a museum and it was divisive -- The people who didn't like it REALLY didn't like it. Not me. I was hooked, sprinting my Redguard warrior around Skyrim with a two-handed hammer and every carry weight increase I could find, vacuuming up as much loot as I could as quickly as I could. I caught wind there was a new release of LOTD; version 6. I was absolutely loving Lost Legacy (except for the Zelda stuff) but FOMO took control and I couldn't stop thinking about all the time I was spending filling my v5 museum, when I knew, I just knew, that I'd eventually want to fill up that v6 musuem. I started looking around for other Wabbajack modlists that used LotD v6.
+
+Of the popular ones, there were only two: Licentia Next, which was graphically impressive, but was wildly unimersive (and the nudity just wasn't my thing), and  Tuxborn, which had almost everything I wanted, but is optimized for Steam Deck (and I wanted something more visually intensive. I started thinking about creating one myself. 
+
+I knew very little. Over the past few years, I’d download Mod Organizer 2, mess around a bit, and quickly lose interest soon after I had to open xEdit. I'd figured out enough to load Wabbajacks and even to create a few texture replacers for Starfield. But this time, if I needed my LotD fix, I'd have to do it myself. I decided: screw it, I’m going to learn xEdit.
+
+I started building Dii.
+
+"Dii" means "mine" in dragon tongue. It's a list designed for the loot-obsessed, the always-encumbered, the Indiana Jones fan, and the completionist; a list for anyone whose favorite part of Skyrim’s gameplay loop is getting back home at the end. It needed to have fast-paced combat (to more quickly get the loot), stunning visuals (to better appreciate the loot), and be lore-friendly and immersive (a personal preference of mine).
+
+I've been working on it for about a month. So farm, I’ve started over twice. The first time, I dug such a deep hole with my messy modgrouping I coudln't dig my way out. The second time, I ran out of disk space, didn’t notice, and Mod Organizer 2 glitched and erased my 1,500 mod-long modlist.txt. This time, I’m taking it slower, and also building it Wabbajack-compatible from the beginning.
+
+To organize my thoughts, I’m starting to record them here as a sort of developer’s journal. Let me know if you like what you see. 
+
+-- UpstairsEmpire
